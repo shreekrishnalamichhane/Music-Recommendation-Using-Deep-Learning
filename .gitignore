@@ -1,0 +1,11 @@
+__pycache__
+__pycache__/*
+Dataset/*
+Test_Sliced_Images
+Test_Sliced_Images/*
+Test_Spectogram_Images
+Test_Spectogram_Images/*
+Train_Sliced_Images
+Train_Sliced_Images/*
+Train_Spectogram_Images
+Train_Spectogram_Images/*
